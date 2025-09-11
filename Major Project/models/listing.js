@@ -8,9 +8,9 @@ const listingSchema = new Schema({
     },
     description: String,
     image: {
-        type: String,
-        default: "http://unsplash.com/photos/lush-green-leaves-against-a-bright-blue-sky-S2RXtg6YGt0",
-        set: (v) => v === "" ? "http://unsplash.com/photos/lush-green-leaves-against-a-bright-blue-sky-S2RXtg6YGt0" : v,
+        // 
+        filename: String,
+        url: String
     },
     price: Number,
     location: String,
