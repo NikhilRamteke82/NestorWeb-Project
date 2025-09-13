@@ -29,6 +29,10 @@
         <br>
         <a href="/listings/<%=listing._id  %>/edit">Edit this listing</a>
     </ul>
+    <br><br>
+    <form method="POST" action="/listings/<%= listing._id  %>?_method=DELETE">
+        <button>Delete this listings</button>
+    </form>
 </body>
 
 </html>
