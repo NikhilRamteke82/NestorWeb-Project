@@ -1,3 +1,7 @@
+.body {
+    font-family: "Plus Jakarta Sans", sans-serif !important;
+}
+
 .navbar {
     list-style-type: none;
     padding: 0;
@@ -76,4 +80,21 @@ nav ul li a:hover {
 
 .card-body {
     padding: 0 !important;
+}
+
+.card-text p {
+    font-weight: 400 !important;
+}
+
+.listing-link {
+    text-decoration: none;
+}
+
+.card-img-overlay {
+    opacity: 0;
+}
+
+.card-img-overlay:hover {
+    opacity: 0.3;
+    background-color: white;
 }
