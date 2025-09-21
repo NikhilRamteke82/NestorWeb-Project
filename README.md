@@ -110,7 +110,7 @@ Nestor-Web/
 
 ## 📸 Screenshots
 
-![Main_Page](imges/C:\Users\ACER\OneDrive\Desktop\Online-Booking-Project\Major Project\imges\Screenshot 2025-09-21 155904.png)
+![Main_Page](Major Project/imges/Screenshot 2025-09-21 155904.png)
 
 ![New_Listing_Page](imges/C:\Users\ACER\OneDrive\Desktop\Online-Booking-Project\Major Project\imges\Screenshot 2025-09-21 155928.png)
 
