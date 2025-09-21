@@ -110,7 +110,7 @@ Nestor-Web/
 
 ## 📸 Screenshots
 
-*Add homepage, listing details, and form screenshots here*
+
 
 ---
 
