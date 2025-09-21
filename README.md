@@ -110,6 +110,20 @@ Nestor-Web/
 
 ## 📸 Screenshots
 
+![Main_Page](assets/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 155904.png)
+
+![New_Listing_Page](assets/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 155928.png)
+
+![Bottom_Main_page](assets/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 160041.png)
+
+![New_Listing_is_added](assets/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 160053.png)
+
+![Edit_Listing_Page](assets/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 160109.png)
+
+![New_Listing_deleted_page](assets/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 160135.png)
+
+![ErrorPage](assets/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 160209.png)
+
 
 
 ---
@@ -129,5 +143,14 @@ Contributions, issues, and feature requests are welcome!
 Fork this repo, make your changes, and submit a pull request.
 
 ---
+📜 License
+
+This project is currently not licensed.
+All rights reserved © 2025 Nikhil Ramteke.
+
+
+---
+
+
 
 
