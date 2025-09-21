@@ -130,10 +130,4 @@ Fork this repo, make your changes, and submit a pull request.
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License**.
-
----
-
-👉 Do you also want me to **add demo instructions for the `init/` folder** (like how to seed the database with sample listings)? That would make the README even more complete.
