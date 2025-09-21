@@ -110,19 +110,19 @@ Nestor-Web/
 
 ## 📸 Screenshots
 
-![Main_Page](imges/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 155904.png)
+![Main_Page](imges/C:\Users\ACER\OneDrive\Desktop\Online-Booking-Project\Major Project\imges\Screenshot 2025-09-21 155904.png)
 
-![New_Listing_Page](imges/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 155928.png)
+![New_Listing_Page](imges/C:\Users\ACER\OneDrive\Desktop\Online-Booking-Project\Major Project\imges\Screenshot 2025-09-21 155928.png)
 
-![Bottom_Main_page](imges/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 160041.png)
+![Bottom_Main_page](imges/C:\Users\ACER\OneDrive\Desktop\Online-Booking-Project\Major Project\imges\Screenshot 2025-09-21 160041.png)
 
-![New_Listing_is_added](imges/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 160053.png)
+![New_Listing_is_added](imges/C:\Users\ACER\OneDrive\Desktop\Online-Booking-Project\Major Project\imges\Screenshot 2025-09-21 160053.png)
 
-![Edit_Listing_Page](imges/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 160109.png)
+![Edit_Listing_Page](imges/C:\Users\ACER\OneDrive\Desktop\Online-Booking-Project\Major Project\imges\Screenshot 2025-09-21 160109.png)
 
-![New_Listing_deleted_page](imges/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 160135.png)
+![New_Listing_deleted_page](imges/C:\Users\ACER\OneDrive\Desktop\Online-Booking-Project\Major Project\imges\Screenshot 2025-09-21 160135.png)
 
-![ErrorPage](imges/c:\Users\ACER\OneDrive\Pictures\Screenshots\Screenshot 2025-09-21 160209.png)
+![ErrorPage](imges/C:\Users\ACER\OneDrive\Desktop\Online-Booking-Project\Major Project\imges\Screenshot 2025-09-21 160209.png)
 
 
 
