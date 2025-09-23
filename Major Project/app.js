@@ -100,17 +100,6 @@ app.delete("/listings/:id", wrapAsync(async(req, res) => {
 }));
 
 
-
-
-// app.get("/testListing", async(req, res) => {
-//     let sampleListing = new Listing({
-//         title: "My New Home",
-//         description: "Best sun rise",
-//         price: 1500,
-//         location: "Nagpur,MH",
-//         conutry: "India"
-//     })
-
 //     await sampleListing.save();
 //     console.log("sample was saved ");
 //     res.send("succesful testing");
